@@ -47,38 +47,38 @@
 
 2. 選擇 Customize your workspace 中 Create an app
 
-    ![Slack API 官網](/images/SLACK_01.png)
+    ![Slack API 官網](/images/Slack_01.png)
 
 3. 選擇 Create New App > From scratch > 輸入 App 名稱 與 選擇 Workspace
 
-    ![建置 App](/images/SLACK_02.png)
+    ![建置 App](/images/Slack_02.png)
 
-    ![輸入 App 基本資訊](/images/SLACK_03.png)
+    ![輸入 App 基本資訊](/images/Slack_03.png)
 
 4. 建置 App 成功網頁轉至 基本資訊頁面 > 需設定 Incoming Webhooks、Permissions
 
-    ![設定權杖資訊](/images/SLACK_04.png)
+    ![設定權杖資訊](/images/Slack_04.png)
 
 5. 開啟 Incoming Webhooks 設定
 
-    ![開啟 Incoming Webhooks](/images/SLACK_05.png)
+    ![開啟 Incoming Webhooks](/images/Slack_05.png)
 6. 安裝 App 到指定 Workspace
 
-    ![建置 Token](/images/SLACK_06.png)
+    ![建置 Token](/images/Slack_06.png)
 
-    ![選擇 App 安裝頻道](/images/SLACK_07.png)
+    ![選擇 App 安裝頻道](/images/Slack_07.png)
 
-    ![產生 Token](/images/SLACK_08.png)
+    ![產生 Token](/images/Slack_08.png)
 
 7. 設定 Permission 中 App 可使用功能
 
-    ![增加權限畫面](/images/SLACK_09.png)
+    ![增加權限畫面](/images/Slack_09.png)
 
-    ![設定權限功能](/images/SLACK_10.png)
+    ![設定權限功能](/images/Slack_10.png)
 
 8. 重新啟動 App 
 
-    ![重新啟動](/images/SLACK_11.png)
+    ![重新啟動](/images/Slack_11.png)
 
 ## **Config - 建立 config.ini 檔案存放相關資訊**
 ```ini
@@ -316,5 +316,5 @@ f(a=1, b=2)
 ```
 ### **結果呈現**
 ![結果呈現 - LINE  ](/images/RES_LINE.png)
-![結果呈現 - SLACK ](/images/RES_SLACK.png)
+![結果呈現 - SLACK ](/images/RES_Slack.png)
 ### 以上簡易教學文章供參考，若有其餘改善建議或常用需求可以提出討論。
