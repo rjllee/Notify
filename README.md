@@ -315,6 +315,6 @@ f(a=1, b=2)
 
 ```
 ### **結果呈現**
-![結果呈現 - LINE  ](/images/RES_LINE.png)
-![結果呈現 - SLACK ](/images/RES_Slack.png)
+![結果呈現 - LINE  ](/images/Output_LINE.png)
+![結果呈現 - SLACK ](/images/Output_Slack.png)
 ### 以上簡易教學文章供參考，若有其餘改善建議或常用需求可以提出討論。
